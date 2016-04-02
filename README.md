@@ -1,4 +1,4 @@
-MarsRoverRefactoringInitialCode
+Smelly Mars Rover movement code refactoring exercise
 =============================================
 
 Smelly Mars Rover movement code to practice refactoring.
